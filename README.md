@@ -55,7 +55,7 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
 
 ### 🛡️ Security Journey & Learning Path
 - 🏆 **CTF Write-ups:** [Visit my Security Blog/Repo](./path-to-your-writeups)
-- 🎓 **Certifications:** - [x] Google Cybersecurity Professional Certificate
+- 🎓 **Certifications:** - [ ] Google Cybersecurity Professional Certificate
   - [ ] CompTIA Security+ (Currently Studying)
   - [ ] OSCP (Future Goal)
 - ⚙️ **Dotfiles:** Check out my [Arch Linux Configs](https://github.com/kzi/dotfiles)
@@ -69,13 +69,13 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/zaki-addaroni-906850340">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.zakiaddaroni9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/Kzi">
     <img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
