@@ -47,7 +47,6 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
 
 **Cyber Security Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-FF4400?style=flat-square&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
