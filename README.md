@@ -10,9 +10,9 @@
 I am a passionate **Programmer** and **Cyber Security Enthusiast** currently focusing on building secure applications and exploring the depths of ethical hacking. While I'm currently seeking new professional opportunities, I spend my time contributing to open-source projects and sharpening my skills in penetration testing.
 
 * 🛡️ **Interests:** Web Security, Network Penetration Testing, and Malware Analysis.
-* 🚀 **Current Goal:** Mastering secure coding practices and achieving industry certifications.
+* 🚀 **Current Goal:** Mastering secure coding practices and build ai.
 * 💬 **Ask me about:** Python, Web Vulnerabilities, or Linux commands.
-* ⚡ **Fun Fact:** I prefer the terminal over the GUI any day.
+* ⚡ **Fun Fact:** I'm single btw
 
 ---
 
