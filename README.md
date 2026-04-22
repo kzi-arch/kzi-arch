@@ -56,7 +56,8 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
 
 ### 🛡️ Security Journey & Learning Path
 - 🏆 **CTF Write-ups:** [Visit my Security Blog/Repo](./path-to-your-writeups)
-- 🎓 **Certifications:** - [ ] Google Cybersecurity Professional Certificate
+- 🎓 **Certifications:**
+  - [ ] Google Cybersecurity Professional Certificate
   - [ ] CompTIA Security+ (Currently Studying)
   - [ ] OSCP (Future Goal)
 - ⚙️ **Dotfiles:** Check out my [Arch Linux Configs](https://github.com/kzi/dotfiles)
