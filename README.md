@@ -60,7 +60,7 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
   - [ ] Google Cybersecurity Professional Certificate
   - [ ] CompTIA Security+ (Currently Studying)
   - [ ] OSCP (Future Goal)
-- ⚙️ **Dotfiles:** Check out my [Arch Linux Configs](https://github.com/kzi/dotfiles)
+- ⚙️ **Dotfiles:** Check out my [Arch Linux Configs](https://github.com/kzi-arch/dotfiles)
 
 ---
 
