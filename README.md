@@ -65,7 +65,7 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
 ---
 
 ### 📈 Contribution Activity
-![KZI Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kzi&theme=tokyo-night&hide_border=true)
+![KZI Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kzi-arch&theme=tokyo-night&hide_border=true)
 
 ---
 
