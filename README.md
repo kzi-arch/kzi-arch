@@ -24,12 +24,12 @@ I am a highly motivated **Programmer** and **Cyber Security Enthusiast**. I live
 
 ### 📊 Skill Analysis & GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kzi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KZI GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzi-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kzi-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KZI GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kzi&theme=tokyonight&no-bg=true&margin-w=15" alt="KZI Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kzi-arch&theme=tokyonight&no-bg=true&margin-w=15" alt="KZI Trophies" />
 </p>
 
 ---
