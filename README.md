@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Focus-Cyber_Security-00FF41?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Cyber Security" />
   <img src="https://img.shields.io/badge/Status-Aspiring_Security_Engineer-orange?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge&logo=google-maps" alt="Location" />
 </p>
 
 <p align="center">
@@ -87,7 +86,7 @@ I'm a highly motivated **Programmer** and **Cybersecurity Enthusiast** with a de
 ## 🎓 Learning Path & Certifications
 
 ### 🏆 Current Goals
-- 🎯 **CompTIA Security+** - Currently studying (Expected: Late 2024)
+- 🎯 **CompTIA Security+** - Currently studying (Expected: Late 2026)
 - 🎯 **OSCP (Offensive Security Certified Professional)** - Next milestone
 - 🎯 **eJPT (eLearnSecurity Junior Penetration Tester)** - Foundation building
 
@@ -100,8 +99,6 @@ I'm a highly motivated **Programmer** and **Cybersecurity Enthusiast** with a de
 ### 🏅 Achievements
 - ✅ Completed multiple CTF challenges
 - ✅ Active bug bounty researcher
-- ✅ Hands-on experience with OWASP Top 10
-- ✅ Proficient in network reconnaissance & enumeration
 
 ---
 
