@@ -28,8 +28,8 @@ I'm a highly motivated **Programmer** and **Cybersecurity Enthusiast** with a de
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzi-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kzi-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzi-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kzi-arch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
