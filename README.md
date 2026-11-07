@@ -1,4 +1,4 @@
-# Zaki Addaroni
+# KZI
 
 Security engineering and full-stack development. Arch Linux daily driver.
 
