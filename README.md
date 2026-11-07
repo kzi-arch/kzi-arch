@@ -28,7 +28,7 @@ time taking one apart.
 
 | | |
 | :-- | :-- |
-| [**fumi**](https://github.com/kzi-arch/fumi) | AI desk companion on ESP32-S3. Touch UI, push-to-talk voice, and a backend that keeps the model swappable — the device never needs reflashing to change providers |
+| [**fumi**](https://github.com/kzi-arch/fumi) | Fork of [imaaiagent/fumi](https://github.com/imaaiagent/fumi) — AI desk companion on ESP32-S3. Kept here as a working copy while I port it to my board |
 | [**purplescan**](https://github.com/kzi-arch/purplescan) | Reconnaissance and vulnerability scanning for web targets |
 | [**psychology-chatbot**](https://github.com/kzi-arch/psychology-chatbot) | Conversational agent. Most of the actual work went into context handling and keeping the guardrails honest on sensitive topics |
 | [**telegram-media-downloader-bot**](https://github.com/kzi-arch/telegram-media-downloader-bot) | Media resolver bot. Built around rate limits and upstreams that fail at the worst possible moment |
